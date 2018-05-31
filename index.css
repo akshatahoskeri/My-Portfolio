@@ -42,7 +42,7 @@
 	transition: padding 0.3s linear 0.1s;
 }
 
-.hobbyItem:hover{
+.hobbyItem:hover {
 	font-weight: bolder;
 	padding: 0.5vmax;
 	color: tomato;
@@ -62,8 +62,8 @@
 }
 
 .sketch:hover{
-	padding:1vmax;
-}	
+	padding:0.5vmax;
+}
 
 .paragraph.four{
     display: flex;
